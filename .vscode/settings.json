@@ -1,0 +1,7 @@
+{
+	"editor.comments.insertSpace": false,
+	"editor.insertSpaces": false,
+	"files.associations": {
+		"get_next_line.h": "c"
+	}
+}
